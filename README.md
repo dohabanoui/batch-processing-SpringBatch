@@ -11,14 +11,6 @@ Ce projet a pour objectif de créer un job **Spring Batch** qui traite une liste
 - Gestion du traitement à l'aide de Spring Batch (steps et jobs).
 
 
-## Installation
-
-1. Clonez ce repository sur votre machine locale :
-```bash
-  (https://github.com/dohabanoui/batch-processing-SpringBatch.git)
-
-```
-
 ## Structure du projet
 
 - **BatchConfiguration.java** : Configure les étapes et le job Spring Batch.
