@@ -15,7 +15,7 @@ Ce projet a pour objectif de créer un job **Spring Batch** qui traite une liste
 
 1. Clonez ce repository sur votre machine locale :
 ```bash
-   [git clone https://github.com/votre-utilisateur/votre-repository.git](https://github.com/dohabanoui/batch-processing-SpringBatch.git)](https://github.com/dohabanoui/batch-processing-SpringBatch.git)
+  (https://github.com/dohabanoui/batch-processing-SpringBatch.git)
 
 ```
 
